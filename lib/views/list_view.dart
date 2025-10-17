@@ -17,7 +17,7 @@ class ListViewPage extends StatelessWidget {
         title: const Text('Catálogo de Colonias'),
         backgroundColor: const Color(0xFFB8860B),
       ),
-      body: Column(
+      body: Column(  
         children: [
           // Imagen de portada (fotocolonia.jpg)
           Container(
